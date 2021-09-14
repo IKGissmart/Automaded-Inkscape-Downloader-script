@@ -1,5 +1,7 @@
 # Automaded-Inkscape-Downloader-script
-This Script Installs Inkscape For you in just few Commands and Works on almost Evey Distro which Supports Flatpak 
+This Script Installs Inkscape For you in just few Commands and Works on almost Evey Distro which Supports Flatpak
+
+NOTE: YOU HAVE TO INSTALL FLATPAK (https://flatpak.org/setup/) FIRST IF YOU HAVEN'T 
 #To Install Inkscape just Follow the Following Commands 
 First Clone the Repo by 
 ```
