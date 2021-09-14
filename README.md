@@ -1,7 +1,7 @@
 # Automaded-Inkscape(stable)-Downloader-script
 This Script Installs Inkscape(Stable) For you in just few Commands and Works on almost Evey Distro which Supports Flatpak.
 
-NOTE: YOU HAVE TO INSTALL FLATPAK (https://flatpak.org/setup/) FIRST IF YOU HAVEN'T. 
+NOTE: YOU HAVE TO INSTALL FLATPAK (https://flatpak.org/setup/) FIRST, IF YOU HAVE'T KINDLY PLEASE INSTALL IT. 
 
 #To Install Inkscape just Follow the Following Commands 
 First Clone the Repo by 
