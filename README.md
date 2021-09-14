@@ -19,5 +19,5 @@ To Run The Script Enter the Following Command while in the same directory
 ```
 ./'inkscape Flatpak.sh'
 ```
-Now Everthing will be good to go
+Now Everthing should be good to go
 
