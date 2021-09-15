@@ -14,11 +14,11 @@ cd Automaded-Inkscape-Downloader-script
 ```
 Now Mark the Script as an Executable by 
 ```
-chmod a+x 'inkscape Flatpak.sh'
+chmod a+x 'inkscape downloader.sh'
 ``` 
 To Run The Script Enter the Following Command while in the same directory 
 ```
-./'inkscape Flatpak.sh'
+./'inkscape downloader.sh'
 ```
 Now Everthing should be good to go
 
