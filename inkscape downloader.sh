@@ -1,7 +1,8 @@
 #!/bin/bash 
 cd ~/Downloads 
-mkdir inkscape-appimage
-cd inkscape-appimage 
-wget https://inkscape.org/gallery/item/26933/Inkscape-c4e8f9e-x86_64.AppImage -O Inkscape_1.1_Appimageversion
+mkdir inkscape-flathub
+cd inkscape-flathub
+wget https://dl.flathub.org/repo/appstream/org.inkscape.Inkscape.flatpakref
+flatpak install flathub org.inkscape.Inkscape
 echo "Done"
 exit 
